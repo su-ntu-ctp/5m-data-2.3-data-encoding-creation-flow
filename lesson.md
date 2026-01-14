@@ -4,9 +4,9 @@
 
 ### Preparation
 
-Ensure you have a basic understanding of XML and REST API as listed in [studies](./studies.md).
+- Ensure you have a basic understanding of XML and REST API as listed in [studies](./studies.md).
 
-We will be using the `bde` environment for this lesson.
+- We will be using the `bde` environment for this lesson. You do not need to create the environment again if you have previously created one. If you do not have the `bde` environment, please refer to [the environment folder](https://github.com/su-ntu-ctp/5m-data-2.1-intro-big-data-eng/tree/main/environments) and the [setup instructions](https://github.com/su-ntu-ctp/5m-data-2.1-intro-big-data-eng/blob/main/installation.md) to create a new one if you have not done so previously.
 
 ### Lesson Overview
 

@@ -3,6 +3,7 @@ solutions/
 .ipynb_checkpoints/
 __pycache__/
 *.py
+.env
 data/*
 !data/1k.variants.avro
 !data/userdata1.orc
